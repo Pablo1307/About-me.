@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Paweł
+- 👀 I’m interested in cars and coding
+- 🌱 I’m currently learning front-end
